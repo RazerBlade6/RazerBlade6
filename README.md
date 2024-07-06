@@ -15,5 +15,5 @@ Welcome to my profile! Ah geez, I never expected anyone to actually read this.
 
 <div>
   <h4>Find My LinkedIn!</h4>
-  <a href = "www.linkedin.com/in/vedant-thapar-52b962304" target = "_blank"><img src = "https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt = "LinkedIn"></a>
+  <a href = "https://www.linkedin.com/in/vedant-thapar-52b962304" target = "_blank"><img src = "https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt = "LinkedIn"></a>
 </div>
