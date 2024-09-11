@@ -7,7 +7,7 @@ Welcome to my profile! Ah geez, I never expected anyone to actually read this.
   <details>
     <summary>Stuff I work on frequently but forget to update here 😅</summary>
     <ul>
-      <li><a href= "https://github.com/RazerBlade6/ci-rs-lang">An Interpreter in Rust (Currently WIP)</a></li>
+      <li><a href= "https://github.com/RazerBlade6/ci-rs-lang">An Interpreter in Rust</a></li>
       <li><a href= "https://github.com/RazerBlade6/Microprocessors-and-Interfacing">Microprocessors Code</a></li>
       <li><a href= "https://github.com/RazerBlade6/Data-Structures-and-Algos">APIs for common Data Structures in C</a></li>
   </details>
