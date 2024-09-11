@@ -10,6 +10,7 @@ Welcome to my profile! Ah geez, I never expected anyone to actually read this.
       <li><a href= "https://github.com/RazerBlade6/ci-rs-lang">An Interpreter in Rust</a></li>
       <li><a href= "https://github.com/RazerBlade6/Microprocessors-and-Interfacing">Microprocessors Code</a></li>
       <li><a href= "https://github.com/RazerBlade6/Data-Structures-and-Algos">APIs for common Data Structures in C</a></li>
+      <li><a href = "https://github.com/RazerBlade6/roti-os">An OS in Rust</a></li>
   </details>
 </div>
 
