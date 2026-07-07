@@ -14,8 +14,8 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: I am a Undergraduate Bachelors of Engineering at [BITS Pilani, Dubai Campus](www.bits-pilani.ac.in/dubai/)
-- 👍: Interested in AI/ML, Systems Engineering, Frontend Development, LaTeX 
+- :school: I am a Graduate Bachelors of Engineering at [BITS Pilani, Dubai Campus](www.bits-pilani.ac.in/dubai/)
+- 👍: Interested in AI/ML, Systems Engineering, Backend Development, Cybersecurity
 - :technologist: **Currently working on** `C++ Development` **&** `Machine Learning`
 - :email: Feel free to **reach out to me** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=VedantThapar&amp;color=EA4335&amp;style=flat-square)](mailto:vedant.thapar@gmail.com)
 - :nerd_face: Always believe `"Early is on time, on time is late, and late is unacceptable"`
