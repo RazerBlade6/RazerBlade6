@@ -69,33 +69,10 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 ![WSL2](https://img.shields.io/badge/WSL2-%23293036?style=flat-square&logo=linux&logoColor=white)
-
-<br>
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
-
 <!--- stats & Trophy (start) -->
-
-<p align="left">
-  <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="50%" align="center">
-  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=RazerBlade6&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RazerBlade6&theme=dark&hide_border=false" /> 
-</td>
-</tr>
-</table>
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
-
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=RazerBlade6&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
 
 <!--- trophy (start) -->
 </p>        
@@ -103,13 +80,7 @@
 
 <br>
 
-<!--profile visit count-->
-
-<div align="center">
-
-
-[![](https://visitcount.itsvg.in/api?id=RazerBlade6&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
-
+<!--profile visit count--
 </div>
 
 <!--horizontal divider(gradiant)-->
